@@ -1,6 +1,6 @@
 # Blog Universidad
 
-[Descripción del proyecto]
+### Descripción del proyecto
 
 [Instalación]
 - Requisitos
