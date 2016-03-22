@@ -10,3 +10,6 @@
 [Uso]
 
 [Documentación]
+
+## Licencias
+### Agradecimientos
