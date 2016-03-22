@@ -1,2 +1,12 @@
 # Blog Universidad
-Es un proyecto de blogging para crear la comunidad educativa de una institución privada
+
+[Descripción del proyecto]
+
+[Instalación]
+- Requisitos
+- Versión
+- Encargados del proyecto
+
+[Uso]
+
+[Documentación]
